@@ -4,4 +4,4 @@
 
 ## Table of Contents
 
-* [singletons with plink](https://github.com/biosigil/blog/tree/master/singletons_plink)
+* [:sparkles: summon singletons with plink](https://github.com/biosigil/plink_singletons)
