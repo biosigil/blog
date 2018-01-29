@@ -1,0 +1,3 @@
+[submodule "plink_singletons"]
+	path = plink_singletons
+	url = https://github.com/biosigil/plink_singletons.git
